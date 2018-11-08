@@ -1,0 +1,7 @@
+C:\Users\Delta\source\repos\Odlucivac\Odlucivac\bin\Debug\Odlucivac.exe.config
+C:\Users\Delta\source\repos\Odlucivac\Odlucivac\bin\Debug\Odlucivac.exe
+C:\Users\Delta\source\repos\Odlucivac\Odlucivac\bin\Debug\Odlucivac.pdb
+C:\Users\Delta\source\repos\Odlucivac\Odlucivac\obj\Debug\Odlucivac.csprojAssemblyReference.cache
+C:\Users\Delta\source\repos\Odlucivac\Odlucivac\obj\Debug\Odlucivac.csproj.CoreCompileInputs.cache
+C:\Users\Delta\source\repos\Odlucivac\Odlucivac\obj\Debug\Odlucivac.exe
+C:\Users\Delta\source\repos\Odlucivac\Odlucivac\obj\Debug\Odlucivac.pdb
